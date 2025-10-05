@@ -181,7 +181,7 @@ const Index = () => {
             <Button
               size="lg"
               onClick={handleCTAClick}
-              className="text-lg px-8 py-6 bg-primary hover:bg-primary-dark transition-all shadow-lg hover:shadow-xl group mx-auto w-full sm:w-auto"
+              className="text-[0.96rem] sm:text-lg px-8 py-6 bg-primary hover:bg-primary-dark transition-all shadow-lg hover:shadow-xl group mx-auto w-full sm:w-auto"
             >
               Stundensatz berechnen
               <ArrowRight className="ml-2 w-5 h-5 group-hover:translate-x-1 transition-transform" />
