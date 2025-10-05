@@ -109,8 +109,8 @@ const Index = () => {
               Ihr Shop wächst – aber auch Ihre Kosten
             </h2>
             <p className="text-lg md:text-xl text-muted-foreground leading-relaxed max-w-3xl mx-auto">
-              Mit dem Umsatz steigen auch die Support-Anfragen. Neue Mitarbeiter in Deutschland 
-              sind teuer: Gehälter ab 2.500€/Monat, plus Sozialabgaben, Recruiting-Kosten und 
+              Mit dem Umsatz steigen auch die Support-Anfragen. Jedoch sind neue Kundenservice-Mitarbeiter in Deutschland 
+              teuer: Gehälter ab 2.500€/Monat, plus Sozialabgaben, Recruiting-Kosten und 
               HR-Aufwand. Das frisst Ihre Gewinne auf.
             </p>
           </div>
