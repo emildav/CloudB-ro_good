@@ -78,7 +78,7 @@ const Index = () => {
         <div className="absolute inset-0 bg-gradient-to-br from-primary/5 via-transparent to-accent/10 pointer-events-none" />
         <div className="mx-auto max-w-6xl px-4 sm:px-6 lg:px-8 relative z-10">
           <div className="text-center max-w-4xl mx-auto animate-fade-in">
-            <h1 className="text-5xl md:text-6xl lg:text-7xl font-bold text-foreground mb-6 leading-tight">
+            <h1 className="text-[2.55rem] sm:text-5xl md:text-6xl lg:text-7xl font-bold text-foreground mb-6 leading-tight">
               Kundenservice-Mitarbeiter ab{" "}
               <span className="text-primary">9€/Std.</span>
             </h1>
